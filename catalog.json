@@ -26,6 +26,14 @@
       "repo": "billwang7599/kothar-themes"
     },
     {
+      "id": "hello",
+      "kind": "mod",
+      "name": "Hello",
+      "author": "Kothar",
+      "description": "An example community mod: a tab counting the messages in each space, a greeting command, and a tool.",
+      "repo": "billwang7599/kothar-sample-mod"
+    },
+    {
       "id": "kanagawa",
       "kind": "theme",
       "name": "Kanagawa",
